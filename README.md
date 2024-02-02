@@ -10,3 +10,4 @@ painting from the original paper (`cyclegan_testing.ipynb` contains download scr
 I trained the models using kaggle's P100 GPU. Initially i set learning rate to 2e-5 as recommended by the paper.
 I used this LR for first 35 epochs, then tried reducing it to 2e-6. Unfortunately due to limited GPU time I did not
 do a lot of experiments, but I noticed that after 45 epochs with rate of 2e-5 model seems to start overfitting. 
+Some of the samples taken during training are stored in `images/saved_samples`.
