@@ -1,5 +1,5 @@
 ## Simple CycleGAN realization with Pytorch
-### [Kaggle notebook](https://www.kaggle.com/code/kb7354/cyclegan/notebook) | [Saved checkpoints](https://disk.yandex.ru/d/L-_m9OoUCs2ZxA)
+### [Kaggle notebook](https://www.kaggle.com/code/kb7354/cyclegan/notebook) | [Saved checkpoints](https://drive.google.com/drive/folders/1a6Fx000Dmi7JIYpb9jqdco-cROvhxgCA?usp=drive_link)
 
 This is implementation of CycleGAN  using Pytorch, mostly following the originally proposed architecture
 ([see here](https://junyanz.github.io/CycleGAN/)). It was trained using datasets of monet and vangogh
